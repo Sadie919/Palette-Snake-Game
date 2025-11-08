@@ -1,3 +1,5 @@
+<img width="446" height="314" alt="Screenshot 2025-06-03 111326" src="https://github.com/user-attachments/assets/f52f921c-2bfa-485a-bec3-0a7172b3ede4" />
+
 # 🎮 Palette Snake Game
 
 This is my final project for Code in Place — a creative twist on the classic Snake game.
